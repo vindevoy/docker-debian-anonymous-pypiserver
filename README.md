@@ -12,6 +12,10 @@ docker run -t -p 8080:8080 -v ~/packages:/opt/packages  vindevoy/debian-anonymou
 
 ## Version numbers
 
-- The version numbers are synced with the version of pypiserver.  
-- The version of Debian is the latest from the slim series at the moment of release
+Considering the version of the image is given as x.y.z-a, this means;
+
+- x.y.z: the version of pypiserver
+- a: the build version of this image
+
+*Note : The version of Debian is the latest from the slim series at the moment of release*
 

@@ -1,4 +1,4 @@
-FROM vindevoy/debian-base:11.2
+FROM vindevoy/debian-base:11.2-0
 
 LABEL maintainer="Yves Vindevogel (vindevoy) - yves.vindevogel@asynchrone.com"
 
