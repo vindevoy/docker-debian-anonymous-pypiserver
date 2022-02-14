@@ -21,7 +21,7 @@ SHELL=/bin/bash
 
 IMAGE_REPO=vindevoy
 IMAGE_NAME=debian-anonymous-pypiserver
-IMAGE_VERSION=1.4.2
+IMAGE_VERSION=1.4.2-0
 
 
 PORT_FORWARDING=-p8080:8080
